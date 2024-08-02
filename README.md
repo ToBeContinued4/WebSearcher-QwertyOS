@@ -1,1 +1,1 @@
-# WebSearcher-QwertyOS
+# Web Searcher - QwertyOS
