@@ -1,0 +1,7 @@
+1.- help
+
+Shows this list with commands
+
+2.- exit
+
+Closes the app and opens Qwerty OS
